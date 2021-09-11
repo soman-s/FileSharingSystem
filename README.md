@@ -1,5 +1,5 @@
-# Note
-Please refer to the message I sent you on Canvas reagrding the readme.md file (subject is "Note about readme file for Assignment 2")
+<!-- # Note
+Please refer to the message I sent you on Canvas reagrding the readme.md file (subject is "Note about readme file for Assignment 2") -->
 
 # Project Information
 This project allows a user to transfer files from a local folder on their computer to a folder on a server, and vice versa.
