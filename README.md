@@ -3,7 +3,7 @@ Please refer to the message I sent you on Canvas reagrding the readme.md file (s
 
 # Project Information
 This project allows a user to transfer files from a local folder on their computer to a folder on a server, and vice versa.
-The program uses concepts such as servers, sockets, and multithreading.'
+The program uses concepts such as servers, sockets, and multithreading.
 
 ![screenshot](https://user-images.githubusercontent.com/71238125/114112937-7550ef00-98ab-11eb-9899-80d87fe7e77a.PNG)
 
