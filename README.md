@@ -1,7 +1,7 @@
 <!-- # Note
 Please refer to the message I sent you on Canvas reagrding the readme.md file (subject is "Note about readme file for Assignment 2") -->
 
-# CSCCI 2020 File Sharing System Project Information
+# CSCI2020 File Sharing System Project Information
 This project allows a user to transfer files from a local folder on their computer to a folder on a server, and vice versa.
 The program uses concepts such as servers, sockets, and multithreading.
 
